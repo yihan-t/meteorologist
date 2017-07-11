@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/firstdraft/grade_runner.git
-  revision: 4127ae0255be5085f9ac9c58cecaf66ed2d1c2ce
+  revision: 83db5d2b90086055aa3204afe38a18394aecea16
   specs:
     grade_runner (0.0.1)
 
@@ -258,4 +258,4 @@ DEPENDENCIES
   webmock
 
 BUNDLED WITH
-   1.15.1
+   1.14.6
