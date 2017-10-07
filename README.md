@@ -9,7 +9,6 @@
  - `bin/setup`
  - Run Project.
  - Go to the live app in Chrome.
- - As you work, use the [Continuous Integration](https://guides.firstdraft.com/continuous-integration.html) workflow to save and submit.
 
 ## Introduction
 
